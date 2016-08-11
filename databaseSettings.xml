@@ -1,6 +1,5 @@
 <application>
   <component name="DatabaseSettings">
-    <option name="reuse-result-tab" value="false" />
     <csv-formats>
       <csv-format name="Tab-separated (TSV)">
         <data>
