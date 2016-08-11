@@ -1,4 +1,4 @@
-<list display="Task" description="Task Action">
+<list display="Task">
   <action id="tasks.switch" />
   <action id="tasks.goto" />
   <action id="tasks.close" />
