@@ -23,4 +23,7 @@
   <action id="XDebugger.CopyName">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
+  <action id="XDebugger.Inspect">
+    <keyboard-shortcut first-keystroke="space" />
+  </action>
 </keymap>
