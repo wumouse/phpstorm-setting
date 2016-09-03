@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="File '.../config/navigation.php - [xpl_admin]'" />
+    <option name="defaultScopeName" value="File '.../config/navigation.php - [xpl_admin]'" />
+    <option name="SEARCH_SCOPE" value="File '.../config/navigation.php - [xpl_admin]'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
