@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../config/navigation.php - [xpl_admin]'" />
-    <option name="defaultScopeName" value="File '.../config/navigation.php - [xpl_admin]'" />
+    <option name="customScope" value="File '.../public/js/pages/brand/add-edit.js - [xpl_admin]'" />
+    <option name="defaultScopeName" value="File '.../public/js/pages/brand/add-edit.js - [xpl_admin]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../config/navigation.php - [xpl_admin]'" />
+    <option name="SEARCH_SCOPE" value="File '.../public/js/pages/brand/add-edit.js - [xpl_admin]'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
