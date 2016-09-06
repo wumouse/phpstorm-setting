@@ -2,8 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../public/js/pages/brand/add-edit.js - [xpl_admin]'" />
     <option name="defaultScopeName" value="File '.../public/js/pages/brand/add-edit.js - [xpl_admin]'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../public/js/pages/brand/add-edit.js - [xpl_admin]'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
