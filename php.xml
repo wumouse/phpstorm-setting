@@ -2296,7 +2296,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="f954ccd2-6ec0-49bd-a167-aa50773b0edd" load_method="CUSTOM_LOADER" custom_loader_path="/home/jm/www/_library/phpunit/vendor/autoload.php" phpunit_phar_path="" />
+      <phpunit_by_interpreter interpreter_id="f954ccd2-6ec0-49bd-a167-aa50773b0edd" load_method="CUSTOM_LOADER" configuration_file_path="/home/jm/www/mobile_service/Test/phpunit.xml" custom_loader_path="/home/jm/www/_library/phpunit/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
